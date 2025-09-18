@@ -103,15 +103,15 @@ DIVIDE(
 
 ### Dashboard 1 – KPIs, Trends, Category & Size Analysis
 
-![Dashboard 1](<img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/41dc1f3f-b335-47ac-80f1-cf5e8ab9b6e4" />
-)
+![Dashboard 1]
+
 <img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/96502ad9-af2e-4e2f-bff4-8ff75c886a7e" />
 
 
 ### Dashboard 2 – Top & Bottom Pizza Performance
 
-![Dashboard 2](<img width="1176" height="657" alt="image" src="https://github.com/user-attachments/assets/ba1fee90-6150-4622-b9fc-508ec50ef563" />
-)
+![Dashboard 2]
+<img width="1176" height="657" alt="image" src="https://github.com/user-attachments/assets/8eeca61f-92cc-4b6d-b143-95454cc5ea4d" />
 
 ---
 
