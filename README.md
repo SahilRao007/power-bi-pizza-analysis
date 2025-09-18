@@ -105,6 +105,8 @@ DIVIDE(
 
 ![Dashboard 1](<img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/41dc1f3f-b335-47ac-80f1-cf5e8ab9b6e4" />
 )
+<img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/96502ad9-af2e-4e2f-bff4-8ff75c886a7e" />
+
 
 ### Dashboard 2 – Top & Bottom Pizza Performance
 
